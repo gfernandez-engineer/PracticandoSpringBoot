@@ -1,6 +1,8 @@
 
 # BIENVENIDO A MI REPO DE PRACTICAS CON SPRING BOOT
 
+Use `git status` to list all new or modified files that haven't yet been committed.
+
 > ## …or create a new repository on the command line
 ```
 echo "# PracticandoSpringBoot" >> README.md
