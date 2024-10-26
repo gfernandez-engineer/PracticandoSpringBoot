@@ -21,6 +21,10 @@ git push -u origin main
 > [!NOTE]
 > Usa esta informacion para aprender
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
