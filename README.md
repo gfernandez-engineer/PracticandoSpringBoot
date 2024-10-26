@@ -15,3 +15,6 @@ git push -u origin main
 git remote add origin https://github.com/gfernandezi/PracticandoSpringBoot.git
 git branch -M main
 git push -u origin main
+
+> [!NOTE]
+> Usa esta informacion para aprender
